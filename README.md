@@ -1,22 +1,22 @@
 **NAME:** IYSWARI A
 
-COMPANY: CODTECH IT SOLUTIONS
+**COMPANY:** CODTECH IT SOLUTIONS
 
-ID: CT08DS5052
+**ID:** CT08DS5052
 
-DOMAIN: FRONTEND DEVELOPMENT
+**DOMAIN:** FRONTEND DEVELOPMENT
 
-DURATION: JULY 15-AUGUST 15 2024
+**DURATION:** JULY 15-AUGUST 15 2024
 
-MENTOR: MUZAMMIL AHMED
+**MENTOR:** MUZAMMIL AHMED
 
-Project: PERSONAL PORTFOLIO WEBSITE
+**Project:** PERSONAL PORTFOLIO WEBSITE
 
-Key Activities:
+###Key Activities:
 
 My portfolio website is designed to highlight my professional journey and technical expertise. It includes a detailed overview of my project work, a section dedicated to showcasing my technical skills, and a blog where I share insights and tutorials. Each project is accompanied by a description of my role, the technologies used, and the outcomes achieved, providing visitors with a clear understanding of my capabilities. Additionally, I’ve incorporated interactive elements and a contact form to encourage networking and potential collaborations.
 
- Key Insights:
+ ###Key Insights:
  
 Throughout the development of my portfolio, I gained valuable insights into the importance of user experience and design aesthetics. I learned how crucial it is to maintain a balance between functionality and visual appeal, ensuring that the website not only looks good but also performs well. I also realized the importance of staying updated with the latest industry trends and continuously refining my skills to keep the portfolio relevant and impressive. This project reinforced my commitment to lifelong learning and adaptability in the fast-evolving tech landscape.
 
